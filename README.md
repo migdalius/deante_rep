@@ -15,4 +15,4 @@ npm run serve
 
 ### Live version
 
-[Deante](https://).
+[Deante](https://648ef07712fa5822cd4023b6--genuine-marshmallow-508254.netlify.app/)
